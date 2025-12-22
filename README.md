@@ -11,6 +11,9 @@ This is a open-sourced project for HEXZD FYSC, this can be used for everyone to 
 
 • And there you have it, the port for the file that you run via localhost is 5555 or 3333, check "server.js" and look which port it was using.
 
+If you don't understand from how the file works in the terminal, I have a tutorial video for you.
+Link: https://www.youtube.com/@lilianax
+
 
 # [IMPORTANT] REQUIRED FILES IN ORDER
 ⁠•⁠ Node.js V18.2.0 or above
