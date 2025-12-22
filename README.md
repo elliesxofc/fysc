@@ -13,7 +13,7 @@ This is a open-sourced project for HEXZD FYSC, this can be used for everyone to 
 
 If you don't understand from how it works, I have a tutorial video for you.
 
-# Link: https://www.youtube.com/@lilianax
+**Link: https://www.youtube.com/@lilianax**
 
 
 # [IMPORTANT] REQUIRED FILES IN ORDER
