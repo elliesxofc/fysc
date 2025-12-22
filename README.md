@@ -16,5 +16,5 @@ If you don't understand from how it works, I have a tutorial video for you.
 **Link: https://www.youtube.com/@lilianax**
 
 
-# [IMPORTANT] REQUIRED FILES IN ORDER
-⁠•⁠ Node.js V18.2.0 or above
+# [IMPORTANT] REQUIRED APPLICATIONS
+⁠•⁠ Node.js v18.2.0 or above (backend)
