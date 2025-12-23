@@ -13,8 +13,10 @@ This is a open-sourced project for HEXZD FYSC, this can be used for everyone to 
 
 If you don't understand from how it works, I have a tutorial video for you.
 
-**Link: https://www.youtube.com/@lilianax**
+**Link: it's not released yet**
 
 
-# [IMPORTANT] REQUIRED APPLICATIONS
-⁠•⁠ Node.js v18.2.0 or above (backend)
+# [IMPORTANT] REQUIRED FILES NEEDED
+⁠•⁠ Node.js v18.2.0 or above
+⁠
+• Fonts: Roboto, Arimo, Gotham (or Montserrat)
